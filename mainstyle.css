@@ -1,0 +1,11 @@
+#topimage{
+    float: left;
+    margin: 30px;
+    width: 200px;
+    height: 450px;
+    background-color: blue;
+}
+
+#search{
+    margin: 100px;
+}
